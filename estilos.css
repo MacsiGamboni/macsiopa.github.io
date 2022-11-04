@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+#UWU{
+    align-items: center;
+}
+#Parrafo1985{
+    color: white;
+}
+#tituloprincipal{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+
+    color: white;
+    background-color: midnightblue;
+    
+}
+body{
+    background-image: url('IMAGENES/fondo.png');
+    font-family: Open Sans;
+}
+#Titulo2{
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+#ElSecreto{
+    margin: 15px;
+}
+#Titulo3{
+    text-align: center;
+}
+header{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 25px 0px;
+    border-radius: 30px;
+    
+}
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #696969;
+    margin: 0px 30px;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+nav a:hover{
+    background-color: #000;
+    color: #fff;
+}
